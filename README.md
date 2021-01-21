@@ -1,5 +1,6 @@
 # SQL-Fınal
 Hocam 
+
 Final1: (INSERT INTO) diye tanımlıdır.
 
 Final2: (INSERT INTO) diye tanımlıdır.
